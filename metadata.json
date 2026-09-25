@@ -1,0 +1,6 @@
+{
+  "name": "Explore Semarang",
+  "description": "Platform eksplorasi tempat menarik di Kota Semarang yang membantu pengguna menemukan wisata, kuliner, spot foto, dan menyusun itinerary berdasarkan budget serta waktu yang tersedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

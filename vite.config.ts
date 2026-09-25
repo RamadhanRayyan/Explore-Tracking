@@ -5,6 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: "/Explore-Tracking/",
     plugins: [vue(), tailwindcss()],
     resolve: {
       alias: {
